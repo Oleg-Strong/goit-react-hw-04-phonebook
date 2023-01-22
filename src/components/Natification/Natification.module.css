@@ -1,0 +1,17 @@
+.natificationTitle {
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+
+  text-shadow: 0 0 5px rgb(230, 255, 5), 0 0 10px rgb(230, 255, 5),
+    0 0 15px rgb(230, 255, 5), 0 0 20px rgba(5, 51, 255, 1),
+    0 0 30px rgba(5, 51, 255, 1), 0 0 40px rgba(5, 51, 255, 1),
+    0 0 55px rgba(5, 51, 255, 1), 0 0 75px rgba(5, 51, 255, 1);
+}
+
+.natificationTitleTexst {
+  text-shadow: 0 0 5px rgb(252, 5, 5), 0 0 10px rgb(252, 5, 5),
+    0 0 15px rgb(252, 5, 5), 0 0 20px rgb(252, 5, 5), 0 0 30px rgb(252, 5, 5),
+    0 0 40px rgb(252, 5, 5), 0 0 55px rgb(252, 5, 5), 0 0 75px rgb(252, 5, 5);
+}

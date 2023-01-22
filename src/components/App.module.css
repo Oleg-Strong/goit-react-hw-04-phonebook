@@ -1,0 +1,10 @@
+.appConteiner {
+  height: 100vh;
+  font-size: 40px;
+  color: #010101;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100vh;
+}

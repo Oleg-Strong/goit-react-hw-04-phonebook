@@ -1,0 +1,35 @@
+.filterBox {
+  margin-top: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(9, 22, 122);
+  box-shadow: 0px 0px 40px -3px rgba(5, 51, 255, 1);
+}
+
+.filterLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.filterLabelText {
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(234, 210, 24);
+}
+
+.filterInput {
+  border-radius: 10px;
+  border-color: transparent;
+  padding: 5px;
+}
+
+.filterInput::placeholder {
+  font-weight: 700;
+}
+
+.filterInput:focus {
+  background-color: rgb(234, 210, 24);
+  outline: none;
+}
